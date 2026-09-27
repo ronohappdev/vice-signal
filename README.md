@@ -92,7 +92,7 @@ To use your own Unlayer project (recommended before deploying your own copy), re
 
 ## Deployment
 
-This project deploys as-is to [Vercel](https://vercel.com/):
+This project deploys as-is to [Vercel](https://vice-signal.vercel.app/):
 
 ```bash
 vercel
